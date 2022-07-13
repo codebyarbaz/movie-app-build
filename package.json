@@ -1,0 +1,25 @@
+{
+  "name": "movie-app-build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codebyarbaz/movie-app-build.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codebyarbaz/movie-app-build/issues"
+  },
+  "homepage": "https://github.com/codebyarbaz/movie-app-build#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
